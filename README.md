@@ -1,2 +1,2 @@
 # DaVinci-Resolve-Course
-No one else can sabotage or take this code at all. 
+No one else can sabotage or take this code at all. Unless you are a contributor
